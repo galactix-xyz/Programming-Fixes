@@ -1,2 +1,2 @@
-# Programming-Fixes
-Fixes for future bugs in programs.
+# Powershell
+```Set-ExecutionPolicy RemoteSigned -Scope CurrentUser```
